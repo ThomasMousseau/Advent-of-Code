@@ -53,3 +53,6 @@ print(CreatingCleanBin(gammaRate) * CreatingCleanBin(epsilonRate))
 
 ## PART 2
 
+#oxygen generator rating
+
+#CO2 scrubber rating
